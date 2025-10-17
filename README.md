@@ -16,4 +16,6 @@ There is available kicad project for the board:
 - in pcb directory
 - in pcb-symbols directory are symbols
 
+A sample box can be found in box directory
+
 ![The result equipped with modules](result.jpg)
