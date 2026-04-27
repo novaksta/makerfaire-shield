@@ -16,6 +16,8 @@ A sample box can be found in "box" directory
 
 There are available workshop slides ("Postav a naprogramuj si vlastní herní konzoli s.pdf") for Maker Faire in Prague 2026 (in czech language) that describe "getting started" process. 
 
+![The result equipped with modules](IMG_20260423_191241.jpg)
+
 There are also available workshop materials for Maker Faire in Brno 2025 where used NUCLEO-F411RE/NUCLEO-F401RE -- please see releases section. 
 
 ![The result equipped with modules](result.jpg)
