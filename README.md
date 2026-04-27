@@ -8,8 +8,7 @@ with additional lcd module ST7735:
 Available are [bootloader firmware binaries](bootloaders/v2-st7735/bootloader.bin)
 
 There is available kicad project for the board:
-- in "pcb" directory
-- in "pcb-symbols" directory are symbols (one Arduino community CC licensed)
+#TBD
 
 A sample box can be found in "box" directory
 
