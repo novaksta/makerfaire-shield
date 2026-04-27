@@ -5,8 +5,7 @@ It is intended for [MakeCode Arcade](https://arcade.makecode.com/) as F4 target 
 with additional lcd module ST7735: 
 - (https://www.laskakit.cz/128x160-barevny-lcd-tft-displej-1-8--spi/)
 
-Available are bootloader firmware binaries:
-- in "bootloaders" directory
+Available are [bootloader firmware binaries](bootloaders/v2-st7735/bootloader.bin)
 
 There is available kicad project for the board:
 - in "pcb" directory
@@ -14,7 +13,7 @@ There is available kicad project for the board:
 
 A sample box can be found in "box" directory
 
-There are available workshop slides ("Postav a naprogramuj si vlastní herní konzoli s.pdf") for Maker Faire in Prague 2026 (in czech language) that describe "getting started" process. 
+There are available workshop slides [Postav a naprogramuj si vlastní herní konzoli s.pdf](Postav a naprogramuj si vlastní herní konzoli s.pdf) for Maker Faire in Prague 2026 (in czech language) that describe "getting started" process. 
 
 ![The result equipped with modules](IMG_20260423_191241.jpg)
 
