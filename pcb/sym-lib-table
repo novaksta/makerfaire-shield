@@ -1,6 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "Connector_Arduino")(type "KiCad")(uri "C:/Users/user/Downloads/Connector_Arduino.kicad_sym")(options "")(descr ""))
-  (lib (name "arduino-library")(type "KiCad")(uri "C:/Users/user/Downloads/arduino-library.kicad_sym")(options "")(descr ""))
-  (lib (name "SCHLIB_TFT-1.8-128x160-ST7735S-SPI-with-CardReader_2025-09-08")(type "EasyEDA (JLCEDA) Std")(uri "C:/Users/user/Downloads/SCHLIB_TFT-1.8-128x160-ST7735S-SPI-with-CardReader_2025-09-08.json")(options "")(descr ""))
-)
