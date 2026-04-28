@@ -7,8 +7,7 @@ with additional lcd module ST7735:
 
 Available are [bootloader firmware binaries](bootloaders/v2-st7735/bootloader.bin)
 
-There is available kicad project for the board:
-# TBD
+There is available kicad project for the board in [pcb foler](pcb) (including [gerbers with BOM](pcb/jlcpcb/production_files/production_files-min.7z) in jlcpcb-friendly format).
 
 There are available workshop slides [Postav a naprogramuj si vlastní herní konzoli s.pdf](Postav a naprogramuj si vlastní herní konzoli s.pdf) for Maker Faire in Prague 2026 (in czech language) that describe "getting started" process. 
 
