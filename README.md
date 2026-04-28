@@ -8,7 +8,7 @@ Available are [bootloader firmware binaries](bootloaders/v2-st7735/bootloader.bi
 
 There is available kicad project for the board in [pcb foler](pcb) (including [gerbers with BOM](pcb/jlcpcb/production_files/production_files-min.7z) in jlcpcb-friendly format).
 
-There are available [workshop slides](Postav a naprogramuj si vlastní herní konzoli s.pdf) for Maker Faire in Prague 2026 (in czech language) that describe "getting started" process. 
+There are available [workshop slides](slajdy.pdf) for Maker Faire in Prague 2026 (in czech language) that describe "getting started" process. 
 
 ![The result equipped with modules](IMG_20260423_191241.jpg)
 
