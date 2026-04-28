@@ -2,8 +2,7 @@
 
 It is intended for [MakeCode Arcade](https://arcade.makecode.com/) as F4 target (see available material on (https://arcade.makecode.com/hardware/adding) if you wish to customize),
 
-with additional lcd module ST7735: 
-- (https://www.laskakit.cz/128x160-barevny-lcd-tft-displej-1-8--spi/)
+with additional [lcd module](https://www.laskakit.cz/128x160-barevny-lcd-tft-displej-1-8--spi/)
 
 Available are [bootloader firmware binaries](bootloaders/v2-st7735/bootloader.bin)
 
